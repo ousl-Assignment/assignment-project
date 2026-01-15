@@ -1,2 +1,3 @@
 # assignment-project
-Github assignment python file display hello world
+Github assignment project
+python file display hello world
